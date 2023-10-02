@@ -56,6 +56,19 @@ width="200"
 width="200"
     hspace="10" vspace="10">](/readme/Screenshot_20231002_100807.png)
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 ## Installation
 - Open the project in Android Studio.
 - Run the application on an emulator or a real device.
